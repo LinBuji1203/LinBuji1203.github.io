@@ -7,7 +7,7 @@
 
 # Site settings
 title: 林不羁的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: .NET and front-end Coder
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://LinBuji1203.github.io" # the base hostname & protocol for your site
 
@@ -17,7 +17,7 @@ permalink: /:year/:month/:day/:title/
 github_username:  LinBuji1203
 email: lin1203@foxmail.com
 weibo_username: 咸鱼籽_
-zhihu_username: hll643435675
+zhihu_username: 林晓利
 
 description_footer: 来自林不羁的个人专栏！
 
